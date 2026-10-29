@@ -7,7 +7,7 @@ Este é um projeto completo de Ciência de Dados desenvolvido com foco em **reso
 ## 🚀 Sobre o Projeto
 O objetivo deste projeto é prever o **Churn** (cancelamento de clientes) numa operadora de telecomunicações. Mais do que apenas treinar um algoritmo de Machine Learning (Regressão Logística), o foco foi extrair **insights de negócio acionáveis** e disponibilizar uma ferramenta real e interativa para que gestores possam simular o risco de clientes em tempo real.
 
-- **🔗 Acesso à aplicação online:** [projeto-churn-telecom.streamlit.app](https://projeto-churn-telecom.streamlit.app)
+- **🔗 Link de acesso à aplicação online:** [projeto-churn-telecom.streamlit.app](https://projeto-churn-telecom.streamlit.app)
 
 ---
 
@@ -42,15 +42,9 @@ Através da Análise Exploratória de Dados (EDA) e da interpretabilidade dos co
 ## 🕹️ Como Testar a Aplicação Web
 Pode testar a aplicação interativa de duas formas:
 
-1. **Diretamente na nuvem (Recomendado):** 
-   Aceda ao link oficial: **[projeto-churn-telecom.streamlit.app](https://projeto-churn-telecom.streamlit.app)**
+ **Diretamente na nuvem (Recomendado):** 
+   Acesso ao link oficial: **[projeto-churn-telecom.streamlit.app](https://projeto-churn-telecom.streamlit.app)**
 
-2. **Localmente na sua máquina:**
-   * Clone este repositório.
-   * Instale as dependências executando: `pip install -r requirements.txt`
-   * Inicie a aplicação com o comando:
-     ```bash
-     streamlit run app.py
      ```
 
 ### 💡 Cenários de Teste Sugeridos na Aplicação:
