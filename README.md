@@ -45,8 +45,7 @@ Pode testar a aplicação interativa de duas formas:
  **Diretamente na nuvem (Recomendado):** 
    Acesso ao link oficial: **[projeto-churn-telecom.streamlit.app](https://projeto-churn-telecom.streamlit.app)**
 
-     ```
-
+    
 ### 💡 Cenários de Teste Sugeridos na Aplicação:
 * **Perfil de Alto Risco (Simulação de Alerta):**
   * *Tempo de casa:* 1 a 6 meses
