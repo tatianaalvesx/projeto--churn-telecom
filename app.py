@@ -34,7 +34,7 @@ with st.expander("ℹ️ Guia de Análise: Perfis de Alto Risco vs. Baixo Risco 
           - **Tempo de Contrato (*Tenure*):** Elevado (longevidade e estabilidade na base).
           - **Tipo de Contrato:** Fidelização de longo prazo (**1 ano** ou **2 anos**).
           - **Suporte Técnico:** Presença ativa de **Suporte Técnico contratado**, garantindo assistência rápida.
-          - **Pagamento:** Métodos de pagamento mais estáveis como **Debito Automaatico**,**Cartão de Credito** e **Faturas via Corrreio**
+          - **Pagamento:** Métodos de pagamento mais estáveis e automáticos.
         """
     )
 
