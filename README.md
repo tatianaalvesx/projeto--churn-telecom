@@ -22,7 +22,7 @@ O objetivo deste projeto é prever o **Churn** (cancelamento de clientes) numa o
 ---
 ## 💡 Justificativa de Negócio e Visão Operacional
 
-# Justificativa de Negócio: Porquê esta Abordagem Operacional?
+* **Justificativa de Negócio: Porquê esta Abordagem Operacional?**
 
 Muitos projetos de portfólio limitam-se a exibir métricas técnicas de Machine Learning ou relatórios estáticos com o impacto financeiro global (visão macro). Contudo, este projeto foi desenhado sob uma **perspetiva operacional e focada em valor real de negócio**:
 
@@ -30,7 +30,7 @@ Muitos projetos de portfólio limitam-se a exibir métricas técnicas de Machine
 * **Da Previsão à Ação Prática:** A aplicação une a probabilidade de churn ao cálculo do impacto financeiro individual (mensalidade e projeção de prejuízo anual), oferecendo recomendações comerciais **práticas e acionáveis** (como descontos condicionados a contratos anuais). 
 * **Ferramenta Viva:** Ao disponibilizar a solução interativa na nuvem via Streamlit Cloud, transformou-se um modelo preditivo numa ferramenta prática de trabalho para equipas comerciais.
 
-
+---
 ## 📈 Principais Insights de Negócio e Perfis Comportamentais
 Através da Análise Exploratória de Dados (EDA) e da interpretabilidade dos coeficientes do modelo, mapeámos os fatores críticos que influenciam o comportamento dos clientes:
 
