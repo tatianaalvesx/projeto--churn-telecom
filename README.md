@@ -26,7 +26,7 @@ O objetivo deste projeto é prever o **Churn** (cancelamento de clientes) numa o
 
 Muitos projetos de portfólio limitam-se a exibir métricas técnicas de Machine Learning ou relatórios estáticos com o impacto financeiro global (visão macro). Contudo, este projeto foi desenhado sob uma **perspetiva operacional e focada em valor real de negócio**:
 
-* **Suporte à Decisão em Tempo Real:** Uma equipa de retenção ou um operador ao telefone não precisa de saber o prejuízo macroeconómico total da empresa; o operador precisa de saber responder imediatamente à pergunta: *"Se **este** cliente específico cancelar, qual é o impacto financeiro individual e qual a melhor estratégia para o reter?"*
+* **Suporte à Decisão em Tempo Real:** Uma equipa de retenção ou um operador ao telefone não precisa saber o prejuízo macroeconómico total da empresa; o operador precisa de saber responder imediatamente à pergunta: *"Se **este** cliente específico cancelar, qual é o impacto financeiro individual e qual a melhor estratégia para o reter?"*
 * **Da Previsão à Ação Prática:** A aplicação une a probabilidade de churn ao cálculo do impacto financeiro individual (mensalidade e projeção de prejuízo anual), oferecendo recomendações comerciais **práticas e acionáveis** (como descontos condicionados a contratos anuais). 
 * **Ferramenta Viva:** Ao disponibilizar a solução interativa na nuvem via Streamlit Cloud, transformou-se um modelo preditivo numa ferramenta prática de trabalho para equipas comerciais.
 
