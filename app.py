@@ -25,7 +25,7 @@ with st.expander("ℹ️ Guia de Testes: Como identificar os perfis de Risco?"):
           - **Tempo de Contrato:** Baixo (ex: 1 a 6 meses).
           - **Tipo de Contrato:** Mês a mês (*Month-to-month*).
           - **Mensalidade:** Mais elevada (ex: R$ 80 a R$ 120+).
-          
+          ---
         - 🟢 **Perfil de Baixo Risco (Cliente Estável):**
           - **Tempo de Contrato:** Elevado (ex: 24 a 72 meses).
           - **Tipo de Contrato:** Anual ou de Dois Anos.
@@ -64,7 +64,7 @@ if st.button("🔍 Prever Risco de Churn", type="primary"):
         
         st.info(
             "💡 **Estratégia Recomendada (Retenção):**\n\n"
-            "1. **Ação Imediata:** Acionar a equipa de *Customer Success*.\n"
+            "1. **Ação Imediata:** Acionar a equipe de *Retenção*.\n"
             "2. **Oferta Sugerida:** Conceder um desconto temporário de 15% mediante a migração para um contrato anual."
         )
     else:
