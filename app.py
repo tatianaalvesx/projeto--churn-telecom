@@ -83,7 +83,7 @@ if st.button("🔍 Prever Risco de Churn e Impacto Financeiro", type="primary"):
         
         st.info(
             "💡 **Estratégia Recomendada (Retenção):**\n\n"
-            "1. **Ação Imediata:** Acionar a equipa de *Retenção* para acompanhamento proativo.\n"
+            "1. **Ação Imediata:** Acionar a equipe de *Retenção* para acompanhamento proativo.\n"
             "2. **Oferta Comercial Sugerida:** Oferecer um desconto temporário de **15%** condicionado à migração imediata para um contrato anual, associado à ativação gratuita de suporte técnico prioritário."
         )
     else:
